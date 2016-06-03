@@ -1,0 +1,27 @@
+{
+  "name": "blend-mode",
+  "version": "0.0.0",
+  "description": "a collection of channel-level blend modes, à la photoshop",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michaelrhodes/blend-mode"
+  },
+  "keywords": [
+    "blend",
+    "mode",
+    "canvas",
+    "photoshop"
+  ],
+  "author": "Michael Rhodes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelrhodes/blend-mode/issues"
+  },
+  "homepage": "https://github.com/michaelrhodes/blend-mode"
+}
